@@ -15,7 +15,7 @@ import static com.kh.common.JDBCTemplate.*;
 public class MemberService {
 	
 	public int insertMember(Member m) {
-		/*
+
 		// 처리 결과를 받을 변수
 		int result = 0;
 		
